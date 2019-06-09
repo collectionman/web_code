@@ -1,4 +1,4 @@
-<img src="./javascript-bordered-green.png" width="120" height="150" alt="javascript-log">
+<img src="./javascript-bordered-green.png" width="125" height="140" alt="javascript-log">
 
 Source for searching about JavaScript, HTML, HTTP and Server Side
 ------ --- --------- ----- ----------  ----  ---- --- ------ ----
