@@ -1,5 +1,7 @@
 ![ScreenShot](javascript-bordered-green.png)
 
+<img src="./javascript-bordered-green.png" alt="javascript-log">
+
 Source for searching about JavaScript, HTML, HTTP and Server Side
 ------ --- --------- ----- ----------  ----  ---- --- ------ ----
 
